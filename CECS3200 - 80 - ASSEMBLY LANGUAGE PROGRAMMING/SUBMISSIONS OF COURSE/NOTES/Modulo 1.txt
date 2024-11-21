@@ -1,0 +1,30 @@
+Hexadecimal Number System
+The hexadecimal system, or base-16, uses 16 symbols: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, and F.
+
+  -  The numbers 0-9 have the same values as in the decimal system.
+  -  The letters A-F represent the decimal values 10-15 (A=10, B=11, C=12, D=13, E=14, F=15).
+
+Each hexadecimal digit corresponds to a 4-bit binary number, making it a convenient way to represent binary numbers in a more compact form[2][3][5].
+
+Here's a table of contents:
+
+HEXA DECIMAL	|	DECIMAL		|	BINARY
+0		|0			|0000
+1		|1			|0001
+2		|2			|0010
+3		|3			|0011
+4		|4			|0100
+5		|5			|0101
+6		|6			|0110
+7		|7			|0111
+8		|8			|1000
+9		|9			|1001
+A		|10			|1010
+B		|11			|1011
+C		|12			|1100
+D		|13			|1101
+E		|14			|1110
+F		|15			|1111
+
+There's an exersi given in the module with the results : So, we have that 1011010100111100101002=17AA7116.
+NOTE: Using AI the results should be 101101010011110010100₂ is: 1B53CA₁₆  or  0001 0111 1010 1010 0111 0001₂ = 17AA71₁₆
